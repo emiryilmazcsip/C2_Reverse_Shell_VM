@@ -1,2 +1,9 @@
-# C2_Reverse_Shell_VM
-C2 Reverse Shell - made for RITSEC Red Team - Offensive Security
+C2 Reverse Shell
+
+Tutorial from: Mohammed Hassan
+https://www.youtube.com/watch?v=WoUnkJ7uA2M 
+
+Made Specifically to join the Red Team for RITSEC and to use in Competition.
+
+
+Author: Emir T. Yilmaz
